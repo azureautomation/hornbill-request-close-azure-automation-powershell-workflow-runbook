@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 4162,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-request-close-azure-automation-powershell-workflow-runbook/master/Hornbill_RequestClose_Workflow.ps1",
+    "DownloadCount": 696,
+    "Id": "Hornbill-Request-Close-d6822997",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 523,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Automation Powershell Workflow Runbook to close a request within Service Manager on a Hornbill Instance",
+    "Title": "Hornbill Request Close - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-request-close-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Microsoft Azure, Powershell, Service Manager"
+}
